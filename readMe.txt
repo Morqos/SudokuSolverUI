@@ -1,3 +1,4 @@
+
 GUI-Sudoku-Solver
 
 A Graphic User Interface Sudoku Solver made with Python3, tkinter and Brute Force algorithm
@@ -14,3 +15,5 @@ ALGORITHM - BRUTE FORCE:
     Tries 1-9 numbers until it finds the first correct one for that cell and puts the number into it
     If going along it will find an error, it will recoursively delete all the inserted cells
     It restarts the algorithm and repeats it until finds the correct numbers
+
+
